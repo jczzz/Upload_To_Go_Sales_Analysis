@@ -2,6 +2,8 @@ Upload & Go Sales Analytics Dashboard for Retail (Streamlit, Pandas, Plotly)
 
 Empower data-driven decisions in your retail business with this interactive dashboard! Analyze sales data to understand trends, customer behavior, and product performance.
 
+## Live Demo Site
+https://upload-to-sales-analysis.streamlit.app/
 
 
 
